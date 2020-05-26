@@ -1,4 +1,4 @@
-# Semsboo(Blog) API
+# Semsbook(Blog) API
 
 This is a Node/Express/MongoDB REST API for image gallery. It is the API ONLY. 
 
