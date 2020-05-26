@@ -5,7 +5,7 @@ This is a Node/Express/MongoDB REST API for image gallery. It is the API ONLY.
 ## Getting Started
 
 ```
-  Open the config/default.json file and add your mongoURI and your jwtSecret
+  Open the config/default.json file and add your mongoURI .
 ```
 
 ```bash
